@@ -153,8 +153,6 @@ O PlaNAR não é apenas um simulador, mas um **ambiente de experimentação cien
 
 > **Use esta Wiki como manual, laboratório e registro histórico do projeto.**
 
-Segue uma **nota formal de “Todos os Direitos Reservados”**, adequada para uso em **Wiki, GitHub Pages, relatórios técnicos, artigos, cursos e materiais institucionais** do projeto **PlaNAR**. O texto está alinhado com pesquisa aplicada, software, documentação técnica e produção científica.
-
 ---
 
 ## Nota de Direitos Autorais e Propriedade Intelectual
@@ -195,5 +193,6 @@ Solicitações de uso, licenciamento, parcerias institucionais ou acadêmicas de
 **Jackson Tavares Veiga**
 Fundador do Projeto PlaNAR
 Pesquisador em UTM, UAS, Simulação e Sistemas Resilientes
+jackson.veiga@alumni.usp.br
 
 ---
