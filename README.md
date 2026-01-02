@@ -5,6 +5,8 @@
 #engenharia-de-sistemas #simulador #pesquisa-aplicada
 
 ---
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## Visão Geral
 
@@ -194,5 +196,8 @@ Solicitações de uso, licenciamento, parcerias institucionais ou acadêmicas de
 Fundador do Projeto PlaNAR
 Pesquisador em UTM, UAS, Simulação e Sistemas Resilientes
 jackson.veiga@alumni.usp.br
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ---
